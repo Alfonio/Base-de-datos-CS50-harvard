@@ -12,3 +12,9 @@
 <h5> 4️⃣ Uso de WHERE para filtrar consultas segun datos dados </h5>
 
 <h5> 5️⃣ Utilizo NOT, OR, AND </h5>
+
+<h5> 6️⃣ Demostrar la existencia del NULL, utilizar el LIKE para la busqueda de patrones y implementar RANGOS para la busqueda eficiente </h5>
+
+<h5> 7️⃣ Ordenamos conjuntos de resultados de consultas con ORDER BY</h5>
+
+<h5> 8️⃣ Implementamos FUNCIONES DE AGREGACION para realizar cálculos sobre un conjunto de valores y devolver un único resultado </h5>
