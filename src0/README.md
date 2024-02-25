@@ -18,3 +18,21 @@
 <h5> 7️⃣ Ordenamos conjuntos de resultados de consultas con ORDER BY</h5>
 
 <h5> 8️⃣ Implementamos FUNCIONES DE AGREGACION para realizar cálculos sobre un conjunto de valores y devolver un único resultado </h5>
+
+| Funciones de Agregación |   Función                   |
+|--------------------------|----------------------------|
+| COUNT                    | Cuenta el número de filas |
+| SUM                      | Suma los valores de una columna |
+| AVG                      | Calcula el promedio de los valores de una columna |
+| MIN                      | Devuelve el valor mínimo de una columna |
+| MAX                      | Devuelve el valor máximo de una columna |
+
+| Palabras Clave | Función      |
+|----------------|--------------|
+| ROUND          | Redondea un número decimal a un número específico de lugares decimales |
+| AS             | Asigna un alias a una columna o tabla en una consulta SQL |
+| DISTINCT       | Elimina duplicados de un conjunto de resultados, devolviendo solo valores únicos |
+
+
+  
+
