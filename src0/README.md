@@ -33,6 +33,6 @@
 | AS             | Asigna un alias a una columna o tabla en una consulta SQL |
 | DISTINCT       | Elimina duplicados de un conjunto de resultados, devolviendo solo valores únicos |
 
-
+<h5> 9️⃣ Finalizamos con la ACTIVIDAD 1</h5>
   
 
