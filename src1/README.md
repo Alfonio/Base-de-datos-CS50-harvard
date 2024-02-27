@@ -45,7 +45,7 @@ Este es solo un ejemplo simple para ilustrar cómo se estructura un diagrama de 
 
 <h5> 5️⃣  Operador IN verificar si un valor se encuentra dentro de un conjunto de valores especificados o dentro del resultado de una subconsulta </h5>
 
-<h5> 6️⃣  </h5>
+<h5> 6️⃣ Aplicación de JOINs, operaciones que se utilizan para combinar filas de dos o más tablas  </h5>
 
 <h5> 7️⃣ </h5>
 
