@@ -41,9 +41,9 @@ Este es solo un ejemplo simple para ilustrar cómo se estructura un diagrama de 
 
 
 
-<h5> 4️⃣  </h5>
+<h5> 4️⃣ Nested o Subqueries (una consulta que está dentro de otra consulta) </h5>
 
-<h5> 5️⃣  </h5>
+<h5> 5️⃣  Operador IN verificar si un valor se encuentra dentro de un conjunto de valores especificados o dentro del resultado de una subconsulta </h5>
 
 <h5> 6️⃣  </h5>
 
